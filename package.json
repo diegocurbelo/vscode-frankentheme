@@ -1,7 +1,7 @@
 {
     "name": "frankentheme",
     "displayName": "Frankentheme",
-    "description": "Frankentheme is mix of color themes",
+    "description": "Frankentheme is a mix of themes, mainly based on Netbeans and GitHub color schemes",
     "version": "1.1.0",
     "publisher": "diegocurbelo",
     "engines": {

@@ -1,5 +1,5 @@
 # Frankentheme
-Frankentheme is mix of themes, mainly based on Netbeans and GitHub color schemes
+Frankentheme is a mix of themes, mainly based on Netbeans and GitHub color schemes
 
 > WIP
 
