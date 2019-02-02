@@ -2,7 +2,7 @@
     "name": "frankentheme",
     "displayName": "Frankentheme",
     "description": "Frankentheme is a mix of themes, mainly based on Netbeans and GitHub color schemes",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "diegocurbelo",
     "engines": {
         "vscode": "*"
