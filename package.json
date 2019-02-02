@@ -1,0 +1,31 @@
+{
+    "name": "frankentheme",
+    "displayName": "Frankentheme",
+    "description": "Frankentheme is mix of color themes",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "id": "frankentheme-light",
+                "label": "Frankentheme Light",
+                "uiTheme": "vs",
+                "path": "./themes/frankentheme-light.json"
+            }
+		]
+    },
+    "homepage": "https://github.com/diegocurbelo/vscode-frankentheme/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/diegocurbelo/vscode-frankentheme"
+    },
+    "bugs": {
+        "url": "https://github.com/diegocurbelo/vscode-frankentheme/issues",
+        "email": "diego@curbelo.com"
+    }
+}
