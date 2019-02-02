@@ -3,6 +3,7 @@
     "displayName": "Frankentheme",
     "description": "Frankentheme is mix of color themes",
     "version": "1.0.0",
+    "publisher": "diegocurbelo",
     "engines": {
         "vscode": "*"
     },
