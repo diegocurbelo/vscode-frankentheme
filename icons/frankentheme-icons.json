@@ -1,0 +1,47 @@
+//  Frankentheme icons
+//  @link https://github.com/diegocurbelo/vscode-frankentheme
+{
+	"fonts": [
+		{
+			"id": "font-awesome",
+			"src": [{"path": "./fontawesome.woff2", "format": "woff"}],
+			"weight": "normal",
+			"style": "normal",
+			"size": "100%"
+		}
+	],
+	"iconDefinitions": {
+		"_file":       {"fontId": "font-awesome", "fontCharacter": "\\F0F6", "fontColor": "#d4d7d6"},
+		"_file_light": {"fontId": "font-awesome", "fontCharacter": "\\F0F6", "fontColor": "#616161"},
+		"_folder":       {"fontId": "font-awesome", "fontCharacter": "\\F07B", "fontColor": "#d4d7d6", "fontSize": "125%"},
+		"_folder_light": {"fontId": "font-awesome", "fontCharacter": "\\F07B", "fontColor": "#616161", "fontSize": "125%"},
+		"_folder_expanded":       {"fontId": "font-awesome", "fontCharacter": "\\F07C", "fontColor": "#d4d7d6"},
+		"_folder_expanded_light": {"fontId": "font-awesome", "fontCharacter": "\\F07C", "fontColor": "#616161"}
+	},
+	"file": "_file",
+	"folder": "_folder",
+	"folderExpanded": "_folder_expanded",
+	"rootFolder": "_folder",
+	"rootFolderExpanded": "_folder_expanded",
+	"fileExtensions": {
+	},
+	"fileNames": {
+	},
+	"languageIds": {
+	},
+	"light": {
+		"file": "_file_light",
+		"folder": "_folder_light",
+		"folderExpanded": "_folder_expanded_light",
+		"rootFolder": "_folder_light",
+		"rootFolderExpanded": "_folder_expanded_light",
+		"fileExtensions": {
+		},
+		"fileNames": {
+		},
+		"languageIds": {
+		}
+	},
+	"highContrast": {
+	}
+}

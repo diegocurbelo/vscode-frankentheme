@@ -1,50 +1,23 @@
+//  Frankentheme icons
+//  @link https://github.com/diegocurbelo/vscode-frankentheme
 {
 	"name": "Frankentheme Light",
 	"type": "light",
 	"colors": {
-		"editor.background": "#ffffff",
-		"editor.foreground": "#24292e",
-		"editorLineNumber.foreground": "#ccc",
-		"editorIndentGuide.background": "#eee",
-		"editorBracketMatch.background": "#f1f8ff",
-		"editorBracketMatch.border": "#c8e1ff",
-		"editor.lineHighlightBackground": "#fffbdd",
-		"focusBorder": "#fafbfc",
-
-		// Activitybar
-		"activityBar.background": "#24292e",
-
-		// Sidebar
-		"sideBar.background": "#fafbfc",
-		"sideBar.foreground": "#586069",
-		"sideBar.border": "#ddd",
-		"sideBarTitle.foreground": "#24292e",
-		"sideBarSectionHeader.background": "#fafbfc",
-		"sideBarSectionHeader.foreground": "#24292e",
-
-		"list.activeSelectionBackground": "#c0c4cd", //List/Tree background color for the selected item when the list/tree is active.
-		// "list.activeSelectionForeground": "#4e5a65", //List/Tree foreground color for the selected item when the list/tree is active.
-		// "list.dropBackground": "#4e5a65", //List/Tree drag and drop background when moving items around using the mouse.
-		// "list.focusBackground": "#4e5a65", //List/Tree background color for the focused item when the list/tree is active.
-		// "list.focusForeground": "#4e5a65", //List/Tree foreground color for the focused item when the list/tree is active. An active list/tree has keyboard focus, an inactive does not.
-		// "list.highlightForeground": "#4e5a65", //List/Tree foreground color of the match highlights when searching inside the list/tree.
-		// "list.hoverBackground": "#4e5a65", //List/Tree background when hovering over items using the mouse.
-		// "list.hoverForeground": "#4e5a65", //List/Tree foreground when hovering over items using the mouse.
-		// "list.inactiveSelectionBackground": "#4e5a65", //List/Tree background color for the selected item when the list/tree is inactive.
-		// "list.inactiveSelectionForeground": "#4e5a65", //List/Tree foreground color for the selected item when the list/tree is inactive. An active list/tree has keyboard focus, an inactive does not.
-		// "list.inactiveFocusBackground": "#4e5a65", //List background color for the focused item when the list is inactive. An active list has keyboard focus, an inactive does not. Currently only supported in lists.
-		// "list.invalidItemForeground": "#4e5a65", //List/Tree foreground color for invalid items, for example an unresolved root in explorer.
-		// "list.errorForeground": "#4e5a65", //Foreground color of list items containing errors.
-		// "list.warningForeground": "#4e5a65", //Foreground color of list items containing warnings.
+		"activityBar.background": "#616161",
+		"list.activeSelectionBackground": "#909090",
+		
+		// Editor
+		"editorLineNumber.foreground": "#c0c0c0",
 
 		// Statusbar
-		"statusBar.foreground": "#24292e",
-		"statusBar.background": "#fafbfc",
-		"statusBar.border": "#ddd",
-		"statusBar.noFolderForeground": "#24292e",
-		"statusBar.noFolderBackground": "#fafbfc",
-		"statusBar.debuggingForeground": "#24292e",
-		"statusBar.debuggingBackground": "#fafbfc",
+		"statusBar.background": "#616161",
+		// "statusBar.foreground": "#24292e",
+		// "statusBar.border": "#ddd",
+		// "statusBar.noFolderForeground": "#24292e",
+		// "statusBar.noFolderBackground": "#fafbfc",
+		// "statusBar.debuggingForeground": "#24292e",
+		// "statusBar.debuggingBackground": "#fafbfc",
 
 		// Notification
 		"notification.background": "#54a3ff"
